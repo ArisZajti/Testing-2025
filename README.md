@@ -53,7 +53,7 @@ I want to check if adding and deleting plants works, and if the app stops us fro
 
 ## Test Results
 
-![Test Results](Testing proof.png)
+![Test Results](./Testing_proof.png)
 
 ## What can the tests catch?
 - If I forget to fill in the name, I get an error
